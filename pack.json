@@ -1,0 +1,10 @@
+{
+  "name": "Call of Duty: Modern Warfare 2 (2009)",
+  "description": "The Multiplayer Menu theme music from Call of Duty: Modern Warfare 2 (2009).",
+  "author": "desle",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
